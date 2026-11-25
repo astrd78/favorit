@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://raw.githubusercontent.com/astrd78/favorit/main/Favorit-v1.13.apk",
-  "notes": "Раздел игр: шашки, шахматы, нарды, крестики-нолики, морской бой, пятнашки. Новая иконка. Обновление жестом вниз, версия в подвале."
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://raw.githubusercontent.com/astrd78/favorit/main/Favorit-v1.14.apk",
+  "notes": "Иконка игр переехала к кругу, как в макете. Обновление теперь видно красной строкой в подвале, обновление экрана — автоматическое."
 }
